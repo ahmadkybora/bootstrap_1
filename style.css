@@ -1,0 +1,9 @@
+.m {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    direction: rtl;
+}
+
+.pug{
+    border-radius: 15px;
+    background-color: #78cece;
+}
